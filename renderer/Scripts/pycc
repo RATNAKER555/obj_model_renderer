@@ -1,0 +1,3 @@
+#!c:\users\ratnaker gautam\desktop\model rendere\renderer\scripts\python.exe
+from numba.pycc import main
+main()
